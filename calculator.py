@@ -14,7 +14,7 @@ def subtract(x, y):
 def multiply(x, y):
    """This function multiplies two numbers"""
 
-   return x * y
+   
 
 def divide(x, y):
    """This function divides two numbers"""
