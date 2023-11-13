@@ -4,7 +4,6 @@
 def add(x, y):
    """This function adds two numbers"""
 
-   return x + y
 
 def subtract(x, y):
    """This function subtracts two numbers"""
